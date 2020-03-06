@@ -41,6 +41,22 @@ fun main(){
 println(100+10)
 
 
+//    DATA TYPES IN KOTLIN
+
+//    BOOLEAN
+
+    val isLoggedin:Boolean = true;
+    val isGeniusin:Boolean = false;
+
+//    STRING
+
+    val jina:String = "Mutisya Evans";
+
+    println(jina.length) //PRINT OUT THE LENGTH OF "val jina"
+    println(jina[0]) //PRINT OUT THE VALUE AT POSITION 0
+    println(jina.last()) //PRINT OUT THE VALUE AT THE END
+
+
 }
 
 
